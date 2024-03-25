@@ -1,0 +1,7 @@
+from agrimetrics_python_sdk.paths.datasets_dataset_id_ogc_tiles_v1_collections_collection_id_map_tiles_tile_matrix_set_id_tile_matrix_tile_row_tile_col.get import ApiForget
+
+
+class DatasetsDatasetIdOgcTilesV1CollectionsCollectionIdMapTilesTileMatrixSetIdTileMatrixTileRowTileCol(
+    ApiForget,
+):
+    pass
